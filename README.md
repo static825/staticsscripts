@@ -8,5 +8,5 @@ as of right now, it supports these games:
 
 ### Script:
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/static825/staticsscripts/refs/heads/main/main.luau"))()
+https://raw.githubusercontent.com/static825/Shift/refs/heads/main/main.luau
 ```
