@@ -1,6 +1,6 @@
-# staticsscripts
+# Shift
 
-**staticsscripts** is a great **keyless** script with **support for many games**!
+**Shift** is a great **keyless** script with **support for many games**!
 
 as of right now, it supports these games:
 
